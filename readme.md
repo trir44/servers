@@ -1,2 +1,2 @@
 ## Minecraft Server Software
-(Paper)[https://github.com/PaperMC/Paper]
+[Paper](https://github.com/PaperMC/Paper)
